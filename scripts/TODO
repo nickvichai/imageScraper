@@ -1,0 +1,3 @@
+1. Edit download function to actually display downloading progress.
+
+2. Edit script to scrape from websites that use JavaScript to display images.
